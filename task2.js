@@ -26,4 +26,4 @@ false - true // 0-1= -1
 true === false // false
 true != true // false
 
-"Go To Helsinki Business College, they said. 'It'll Will Be ´Fun´,' they said."
+"Go To Helsinki Business College, they said. 'It'll Will Be `Fun`, they said."
